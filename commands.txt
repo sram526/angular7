@@ -1,0 +1,28 @@
+								DAY-1
+
+
+Angular CLI Useful Commands:
+
+ng g component my-new-component
+ng g directive my-new-directive
+ng g pipe my-new-pipe
+ng g service my-new-service
+ng g class my-new-class
+ng g guard my-new-guard
+ng g interface my-new-interface
+ng g enum my-new-enum
+ng g module my-module
+-----------------------------------------------
+Create new project:
+ng new user-management-app
+-----------------------------------------------
+Run your application to get started
+cd angular6-example
+ng serve
+-----------------------------------------
+Create Components
+ng g component home
+ng g component login --spec=false
+ng g component add-user --spec=false
+ng g component edit-user --spec=false
+ng g component list-user --spec=false
